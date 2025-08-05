@@ -116,7 +116,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## 📬 Contact
 
-For questions or support, contact the repository owner via [GitHub](https://github.com/mr-bala-kavi/password-manager-desktop) or open an issue.
+For questions or support, contact the me via [Instagram](https://instagram.com/kavi.s_network) .
 
 ---
 
